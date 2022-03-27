@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me patel16sanjay@gmail.com
-- 
 
 
 <!---
