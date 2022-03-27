@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Sanjay8856
+-     I am a Blockchain developer having skills of Solidity, Ganache,Truffle, etc.
 - 👀 I’m interested in Solidity project
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me patel16sanjay@gmail.com
+- 
 
 
 <!---
